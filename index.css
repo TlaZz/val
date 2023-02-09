@@ -2,10 +2,10 @@ body {
     font-family: 'Share Tech', sans-serif;
     font-size: 68px;
     color: white;
-    display: flex;
+   display: flex;
     jsutify-content: center;
-    align-items: center;
-    margin: 0;
+   align-items: center;
+   margin: 0;
     width: 100vw;
     height: 100vh;
     text-shadow: 8px 8px 10px #0000008c;
